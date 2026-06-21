@@ -46,8 +46,8 @@
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 <br/>
 
@@ -72,7 +72,6 @@ class PoojaM:
     name       = "Pooja M"
     degree     = "B.E CSE @ UCE Kancheepuram"
     batch      = "2023 – 2027"
-    cgpa       = 8.5
     location   = "Kanchipuram, Tamil Nadu 🇮🇳"
 
     expertise  = [
@@ -88,7 +87,6 @@ class PoojaM:
     hackathons = {
         "Chakravyuha 1.0"       : "🏆 WINNER",
         "IBM Naan Mudhalvan"    : "🥈 Runner Up",
-        "Hackwartz 2k26"        : "🥈 Runner Up",
     }
 
     motto = "Caffeine + Confusion → Clean Code ☕"
@@ -104,7 +102,7 @@ print(me.motto)
 <br/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" height="200" alt="Coding GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" height="200" alt="Coding GIF"/>
 </div>
 
 <br/>
@@ -148,9 +146,7 @@ print(me.motto)
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ QUOTE OF THE DAY ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star%20Struck.png" width="28" height="28" align="center" alt="quote"/>
-&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4500&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=28&lines=✦+Random+programming+quote+below+—+refreshes+every+visit+✦" alt="quote label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=0&pause=0&color=A78BFA&center=true&vCenter=true&repeat=false&width=700&height=28&lines=%E2%9C%A6+Random+programming+quote+%E2%80%94+refreshes+every+visit+%E2%9C%A6" alt="quote label"/>
 
 <br/>
 
@@ -159,7 +155,7 @@ print(me.motto)
 <br/>
 
 <!-- FUN FACTS CYCLING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&repeat=true&width=760&height=30&lines=⚡+Fun+Fact%3A+I+scored+100%25+in+SSLC+and+92%25+in+HSC;⚡+Fun+Fact%3A+Chakravyuha+1.0+Winner+%7C+AES-256+%2B+LLM+powered;⚡+Fun+Fact%3A+Shipped+5%2B+full-stack+apps+before+graduation;⚡+Fun+Fact%3A+EDC+Member+%2B+Class+Rep+%2B+NSS+Secretary+at+UCE;⚡+Fun+Fact%3A+IBM+Hackathon+Runner-Up+with+XGBoost+%2B+SHAP;⚡+Fun+Fact%3A+Built+a+complete+MERN+HelpDesk+during+internship;⚡+Fun+Fact%3A+Typewriting+45+WPM+—+First+Class+with+Distinction" alt="Fun Facts"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&repeat=true&width=760&height=30&lines=%E2%9A%A1+Fun+Fact%3A+I+scored+100%25+in+SSLC+and+92%25+in+HSC;%E2%9A%A1+Fun+Fact%3A+Chakravyuha+1.0+Winner+%7C+AES-256+%2B+LLM+powered;%E2%9A%A1+Fun+Fact%3A+Shipped+5%2B+full-stack+apps+before+graduation;%E2%9A%A1+Fun+Fact%3A+EDC+Member+%2B+Class+Rep+%2B+NSS+Secretary+at+UCE;%E2%9A%A1+Fun+Fact%3A+IBM+Hackathon+Runner-Up+with+XGBoost+%2B+SHAP;%E2%9A%A1+Fun+Fact%3A+Built+a+complete+MERN+HelpDesk+during+internship;%E2%9A%A1+Fun+Fact%3A+Typewriting+45+WPM+%E2%80%94+First+Class+with+Distinction" alt="Fun Facts"/>
 
 </div>
 
@@ -175,104 +171,57 @@ print(me.motto)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=28&lines=%E2%9C%A6+Chakravyuha+Winner+%E2%80%94+the+journey+of+@poojamurugan23+%E2%9C%A6" alt="Journey Header"/>
-
-<br/>
-
-<table>
-<tr>
-
-
-#
-<td align="center" valign="top" width="49%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="56" height="56" alt="college"/>
-
-### 🎓 Engineering Begins
-`Aug 2023 – Present`
-
-<img src="https://img.shields.io/badge/UCE_Kancheepuram-B.E_CSE-22d3ee?style=for-the-badge&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/CGPA-8.5_/_10-f59e0b?style=for-the-badge&labelColor=0d1117"/>
-
-> Hello HTML. Hello Python. Hello World. First web apps shipped — WeatherApp, DBMS systems & more.
-
-`Python` · `Java` · `HTML/CSS` · `SQL` · `OOP`
-
-</td>
-
-<td align="center" valign="top" width="49%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="56" height="56" alt="backend"/>
-
-### 🗄️ Backend Era
-`May 2025`
-
-<img src="https://img.shields.io/badge/Django-Student_Mgmt_System-092E20?style=for-the-badge&logo=django&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/Status-SHIPPED_✓-22c55e?style=for-the-badge&labelColor=0d1117"/>
-
-> First real backend — managing student records, attendance, marks & reports using Django ORM.
-
-`Django` · `Python` · `SQL ORM` · `CRUD`
-
-</td>
-
-</tr>
-<tr>
-
-<td align="center" valign="top" width="33%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="56" height="56" alt="ai"/>
-
-### 🤖 AI / ML Era
-`Jul 2025`
-
-<img src="https://img.shields.io/badge/AI_Hiring_System-Flagship_Project-a78bfa?style=for-the-badge&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/SHAP-Explainable_AI-F7931E?style=for-the-badge&labelColor=0d1117"/>
-
-> Built AI-powered recruitment platform with ML models, SHAP explainability & analytics dashboard.
-
-`Streamlit` · `Scikit-learn` · `XGBoost` · `SHAP`
-
-</td>
-
-<td align="center" valign="top" width="33%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="56" height="56" alt="hackathon"/>
-
-### 🏆 Hackathon Era
-`Oct 2025 – Mar 2026`
-
-<img src="https://img.shields.io/badge/Chakravyuha-WINNER_🏆-FFD700?style=for-the-badge&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/IBM_+Runner_Up_🥈-C0C0C0?style=for-the-badge&labelColor=0d1117"/>
-
-> 2 competitions. 1 gold. 1 silver. AES-256, Merkle Trees, Claude LLM, XGBoost & SHAP.
-
-`Cybersecurity` · `AI/ML` · `UI/UX` · `Speed Build`
-
-</td>
-
-
-</tr>
-</table>
-
-<br/>
-
-<!-- NOW row -->
-<table>
-<tr>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="40" height="40" align="center" alt="now"/>
-&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=28&lines=NOW+%E2%9A%A1+CGPA+8.5+%7C+2027+Graduating+%7C+MLOps+%2B+System+Design+%2B+Open+Source;%E2%80%9CEvery+commit+is+a+craft.+Every+repo+is+a+commitment.%E2%80%9D" alt="Now"/>
-
-</td>
-</tr>
-</table>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          ✦  THE JOURNEY OF @poojamurugan23  ✦                   ║
+╚══════════════════════════════════════════════════════════════════╝
+                              │
+         ╭────────────────────────────────────────────────────╮
+         │  🎓 Engineering Era              Aug 2023           │
+         │     B.E CSE @ UCE Kancheepuram          │
+         │     Hello HTML. Hello Python. Hello World.          │
+         │     WeatherApp · Tic-Tac-Toe · DBMS Projects        │
+         ╰──────────────────────┬──────────────────────────────╯
+                                │
+         ╭────────────────────────────────────────────────────╮
+         │  🗄️ Backend Era                  May 2025          │
+         │     Student Management System                       │
+         │     Django · Python · SQL ORM · CRUD                │
+         │     First real production backend shipped           │
+         ╰──────────────────────┬──────────────────────────────╯
+                                │
+         ╭────────────────────────────────────────────────────╮
+         │  🤖 AI / ML Era                  Jul 2025          │
+         │     AI-Powered Hiring & Talent Management System    │
+         │     Streamlit · Scikit-learn · XGBoost · SHAP       │
+         │     Merged intelligence with engineering            │
+         ╰──────────────────────┬──────────────────────────────╯
+                                │
+         ╭────────────────────────────────────────────────────╮
+         │  🏆 Hackathon Era         Oct 2025 – Mar 2026      │
+         │     IBM Naan Mudhalvan  →  Runner-Up  🥈           │
+         │     Chakravyuha 1.0     →  WINNER     🏆           │
+         │     AES-256 · Merkle Trees · Claude LLM · SHAP      │
+         ╰──────────────────────┬──────────────────────────────╯
+                                │
+         ╭────────────────────────────────────────────────────╮
+         │  💼 Internship & Full-Stack      Dec 2025          │
+         │     AdroIT Technologies — Full Stack Developer      │
+         │     MERN HelpDesk · JWT · RBAC · SLA Dashboard      │
+         │     CyberShield · Node-cron · Nodemailer            │
+         ╰──────────────────────┬──────────────────────────────╯
+                                │
+                                ▼
+         ╭────────────────────────────────────────────────────╮
+         │  ✨ NOW: Levelling Up             2027 Graduating   │
+         │     CGPA 8.5 / 10                                   │
+         │     MLOps · System Design · Open Source             │
+         │     Advanced DSA · Cloud Deployment                 │
+         │                                                     │
+         │     "Every commit is a craft.                       │
+         │      Every repo is a commitment." 💜                │
+         ╰────────────────────────────────────────────────────╯
+```
 
 </div>
 
@@ -296,8 +245,7 @@ print(me.motto)
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
@@ -309,84 +257,81 @@ print(me.motto)
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
+### ⚡ Languages I Speak
 
-**🗣️ Languages**
-
-<img src="https://skillicons.dev/icons?i=py,js,java,c,html,css&perline=6"/>
-
-`Python` · `JavaScript` · `Java` · `C` · `SQL` · `HTML5` · `CSS3`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**🤖 AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,anaconda,jupyter&perline=5"/>
-
-`Scikit-learn` · `Pandas` · `NumPy` · `TensorFlow`<br/>
-`SHAP` · `XGBoost` · `Feature Engineering`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**🌐 Web Development**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,vite&perline=6"/>
-
-`React.js` · `Node.js` · `Express.js` · `Django`<br/>
-`Streamlit` · `Tailwind CSS` · `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-**🗄️ Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,sqlite&perline=5"/>
-
-`MongoDB` · `MySQL` · `Oracle SQL` · `Firebase`<br/>
-`Supabase` · `JWT` · `RBAC` · `Query Optimization`
-
-</td>
-<td align="center" valign="top">
-
-**🧰 Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5"/>
-
-`Git` · `GitHub` · `VS Code` · `Postman`<br/>
-`Oracle APEX` · `Jupyter` · `MongoDB Compass`
-
-</td>
-<td align="center" valign="top">
-
-**🧠 Core CS & Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
-<img src="https://img.shields.io/badge/OOP-7c3aed?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DSA-22d3ee?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DBMS-a78bfa?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/OS-4ade80?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/SDLC-f59e0b?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Agile-22d3ee?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/System%20Design-7c3aed?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-a78bfa?style=flat-square&labelColor=0d1117"/>
+### 🛠️ Frameworks &amp; Libraries
 
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+<br/>
+
+### 🤖 AI &amp; Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-a78bfa?style=for-the-badge&labelColor=0d1117)
+![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+### 🗄️ Databases &amp; Backend
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+<br/>
+
+### 🧰 Tools &amp; Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+<br/>
+
+### 🧠 Core CS &amp; Engineering
+
+![OOP](https://img.shields.io/badge/OOP-7c3aed?style=for-the-badge&labelColor=0d1117)
+![DSA](https://img.shields.io/badge/DSA-22d3ee?style=for-the-badge&labelColor=0d1117)
+![DBMS](https://img.shields.io/badge/DBMS-a78bfa?style=for-the-badge&labelColor=0d1117)
+![OS](https://img.shields.io/badge/Operating%20Systems-4ade80?style=for-the-badge&labelColor=0d1117)
+![Networking](https://img.shields.io/badge/Computer%20Networks-f59e0b?style=for-the-badge&labelColor=0d1117)
+![System Design](https://img.shields.io/badge/System%20Design-22d3ee?style=for-the-badge&labelColor=0d1117)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20SDLC-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ef4444?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
@@ -507,65 +452,7 @@ STATUS  █████████████████████ COMPLETE
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ INTERNSHIP ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" height="32" align="center" alt="internship"/>
-&nbsp; Internship Experience
-</h2>
-
-<table>
-<tr>
-<td>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   🏢  AdroIT Technologies Innovative Solutions Pvt. Ltd.                  
-║       Virtual Internship  ·  Full Stack Developer                         ║
-║       📅  29 December 2025  –  9 February 2026                           
-║                                                                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  ▶  Engineered a MERN-stack HelpDesk Ticketing System featuring           
-║     secure JWT authentication & Role-Based Access Control (RBAC).         ║
-║                                                                           ║
-║  ▶  Built an interactive analytics dashboard with Node-cron automated    
-║     SLA tracking, secure file uploads, and email notifications.           ║
-║                                                                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║  Stack: MongoDB · Express.js · React.js · Node.js · JWT · Nodemailer      ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-22d3ee?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Type-Virtual%20Internship-a78bfa?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Duration-42%20Days-4ade80?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Stack-MERN-f59e0b?style=for-the-badge&labelColor=0d1117"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
@@ -577,7 +464,11 @@ STATUS  █████████████████████ COMPLETE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=15&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=32&lines=%F0%9F%8F%86+WINNER+%C2%B7+Chakravyuha+1.0+Cybersecurity+Domain;%F0%9F%A5%88+Runner-Up+%C2%B7+IBM+Naan+Mudhalvan+Hackathon+2025;%F0%9F%A5%88" alt="Hackathon Achievements"/>
+<img src="https://media.giphy.com/media/3o6fIVHDBw28B1JgPC/giphy.gif" width="220" height="160" alt="winner gif"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=15&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=32&lines=%F0%9F%8F%86+WINNER+%C2%B7+Chakravyuha+1.0+Cybersecurity+Domain;%F0%9F%A5%88+Runner-Up+%C2%B7+IBM+Naan+Mudhalvan+Hackathon+2025;%F0%9F%A5%88+Runner-Up+%C2%B7+Hackwartz+2k26+IT+Domain" alt="Hackathon Achievements"/>
 
 <br/><br/>
 
